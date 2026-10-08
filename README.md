@@ -4,7 +4,11 @@
 
 A Windows 11 Snipping Tool look-alike for Raspberry Pi OS. Screenshots save automatically to **Pictures/Screenshots** and are copied to the clipboard.
 
-![PiSnip editor with a highlight, circle, underline and arrow drawn on a snip](screenshot.png)
+![PiSnip on the desktop: the Snipping Tool main window, and the editor with a marked-up snip](screenshot-app.png)
+
+**Main window** (Snip / Record, + New, snipping mode, time delay and the ⋯ menu):
+
+![The PiSnip main window](screenshot-main-window.png)
 
 The full illustrated user manual is in [PiSnip-Manual.pdf](PiSnip-Manual.pdf).
 
